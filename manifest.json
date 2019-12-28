@@ -1,0 +1,12 @@
+{
+    "files": {
+        "README.md": "aafbca180a81b60fb0342ae1a9f215551ab916881588dc321c944a51c098b460",
+        "index.js": "8accac125cba6a72bf773503803dff016f471e6d3a33debdf92ef9d9eb2cd396",
+        "module.json": "bde86a77fd999fe15242fa06fff4468c4066ba7b7c2974c0cce498d10ad33db9"
+    },
+    "defs": {
+        "S_DESPAWN_NPC": 3,
+        "S_LOAD_TOPO": "raw",
+        "S_SPAWN_NPC": 11
+    }
+}
